@@ -1,0 +1,13 @@
+,Number of False Positives,,,,,,,,,
+,Cosine,,Euclidean,,,Best Models:,,,,
+,Single Word,2 Gram,Single Word,2 Gram,,"TFIDF (2Gram, Cos) <- Going with this one since it has higher match percentages",,,,
+TFIDF,2,0,0,2,,"TFIDF(NoGram, Euc)",,,,
+NMF,7,7,6,7,,,,,,
+KMeans,1,7,5,9,,,,,,
+,,,,,,"Kess, Dissident Mage Recommendations",,,,
+,,,,,,,Names of False Positives,,,
+,,,,,,,Cosine,,Euclidean,
+,,,,,,,Single Word,2 Gram,Single Word,2 Gram
+,,,,,,TFIDF,"Possessed Skaab, Saiba Syphoner",x,x,"Squee the Immortal, Ebondeath Dracolich"
+,,,,,,NMF,"Aurora Phoenix, Galvanic Iteration, Demilich, Wild-Magic Sorcerer, Coveted Prize, The First Sliver, Dual Strike","Omniscience, Into the Fray, Shifting Borders, Dampen Thought, Stalwart Valkyrie, Harness the Storm, Stream of Thought","Aurora Phoenix, Galvanic Iteration, Demilich, Wild-Magic Sorcerer, Coveted Prize, The First Sliver","Into the Fray, Omniscience, Shifting Borders, Dampen Thought, Stream of Thought, Stalwart Valkyrie, Harness the Storm"
+,,,,,,KMeans,Force of Negation,"Xander's Pact, Patrician's Scorn, Demonic Attorney, Galvanic Iteration, Cabal Therapy, Forbid, Omniscience","Crucible of Worlds, Ramunap Excavator, Harness the Storm, Zombie Apocalypse, Sever the Bloodline","Ojutai's Summons, Scourge of Nel Toth, Daring Buccaneer, Ignorant Bliss, Tasigur the Golden Fang, Cabal Therapy, Horobi's Whisper, Cosmos Charger, Cenn's Enlistment"
